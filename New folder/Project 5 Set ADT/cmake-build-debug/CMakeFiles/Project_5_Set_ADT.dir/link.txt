@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Project_5_Set_ADT.dir/main.cpp.o CMakeFiles/Project_5_Set_ADT.dir/Project5.cpp.o  -o Project_5_Set_ADT.exe -Wl,--out-implib,libProject_5_Set_ADT.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

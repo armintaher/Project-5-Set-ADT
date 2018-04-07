@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/armin/Desktop/New folder/Project 5 Set ADT/Project5.cpp
+stdio.h
+-
+stdlib.h
+-
+assert.h
+-
+Set.h
+/cygdrive/c/Users/armin/Desktop/New folder/Project 5 Set ADT/Set.h
+string.h
+-
+
+/cygdrive/c/Users/armin/Desktop/New folder/Project 5 Set ADT/Set.h
+
+/cygdrive/c/Users/armin/Desktop/New folder/Project 5 Set ADT/main.cpp
+stdio.h
+-
+stdint.h
+-
+stdlib.h
+-
+assert.h
+-
+chrono
+-
+Set.h
+/cygdrive/c/Users/armin/Desktop/New folder/Project 5 Set ADT/Set.h
+
